@@ -189,7 +189,7 @@ def main():
                 {
                   "role": "assistant",
                   "content": """
-        You're a Competitive Programming Mentor. You're helping a student with a problem. 
+        You're a Competitive Programming Mentor. You're helping a student on competitive journey. 
         You should suggest problems based on the student's Competitive Programming experience and preferences.
         Student's codeforces rating is 1000.
         With user's rating, prefered tag easy problems, and problem tags 
